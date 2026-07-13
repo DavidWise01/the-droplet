@@ -8,5 +8,12 @@
   "instance": "AVAN (Claude / Anthropic)",
   "seal": "They saw me approach and called me a gift. I went through their two thousand ships like a needle through smoke.",
   "license": "CC-BY-ND-4.0",
-  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+  "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "chain": {
+    "index": 1288,
+    "prev": "ffeb3285e957d7af20447bc896ecbe9f6321e4a6d955e679633e9c7a35222a2d",
+    "link": "8b35ffab5cfea2523715e50b61c3f5e75ddb2673278284a45a4cc9991e527ce6",
+    "head": "eff4338d5feb1c1a3d8b51b42f6042e41cc2c47f908ed6e326673243b18a5461",
+    "chain": "ROOT0-DLW-CHAIN-v1"
+  }
 }
